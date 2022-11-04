@@ -22,10 +22,10 @@ margin-bottom: 33px;
 h4 {
 	width: 674px;
 	height: 21px;
-	margin-bottom: ;
-	display: block;
+	margin-bottom: 16px;
+	margin-top: 30px;
+	display:block ;
 }
-
 .active {
 	color: red;
 }
@@ -43,23 +43,17 @@ h4 {
 	width: 930px;
 	height: 360px;
 	display: inline-block;
-	vertical-align: text-top
+	vertical-align: bottom;
 
 }
 .p1 {
-	display: block;
-	border: 2px solid blue;
+	border: 1px solid blue;
 	width: 56px;
 	height: 56px;
 	background-color: #3d58a6;
-	margin-top: 39px;
-	margin-left: 30px;
-	padding: 12px 3px 16px 10px: ;
-	border-radius: 4px;
-	align-content: center;
-	font-size: 40px;
-	
-
+	font-size: 37px;
+	font-weight: 43px;
+	vertical-align: bottom;
 }
 
 .contact-wrapper{
@@ -159,4 +153,10 @@ li {
 	width: 14px;
 	height: 30px;
 	margin-top: 16pxpx;
+}
+.pirveli{
+	/*display: inline-block;*/
+	width: 1239px;
+	height: 1754px;
+	margin-right: 39px;
 }
